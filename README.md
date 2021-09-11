@@ -1,2 +1,3 @@
 # xcloud-cgtv
-Xcloud App no Official -  For Chromecast Google TV - CGTV
+Xcloud App Unofficial -  For Chromecast Google TV - CGTV
+Coming soon !
