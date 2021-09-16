@@ -32,7 +32,7 @@ You can use this button Paypal for donations.
 
  "World Premiere !"
  
- Yes i can say that, welcome to my Xcloud Beta for Google TV
+ Yes i can say that, welcome to my Xcloud Beta for Chromecast Google TV.
 
 
 ## Context
