@@ -115,7 +115,7 @@ https://support.xbox.com/en-US/help/hardware-network/controller/update-xbox-wire
 ---------------------
 
 *Features*
-- Full optimised for Android TV and the shield TV
+- Full optimised for Android TV and Google TV
 - Full controller support in interface and Games
 - Icon Banner on Home page and menu of Android TV
 - No external browser required, all in fullscreen
