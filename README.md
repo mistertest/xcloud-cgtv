@@ -67,10 +67,10 @@ The precedent model: "Chromecast Ultra" is not supported.
 
 All controllers supported by the Google Chromecast officialy.
 
-- Xbox 360/One/Serie x controller
-- Switch controller
+- Xbox 360/One/Serie X controller
 - All of "Xinput mapping" Controller bluetooth
 - Some models of Switch controller
+
 
 
 ### REQUIREMENTS
