@@ -1,7 +1,5 @@
-# xcloud-cgtv
-Xcloud App Unofficial -  For Chromecast Google TV - CGTV
+# Xcloud App Unofficial -  For Chromecast Google TV - CGTV
 
-### Coming soon !
 
 
 ### ABOUT ME
@@ -14,12 +12,184 @@ The perspective that you can play any Big game without having the hardware of th
 
 
 
-### DONATE
+### DONATE PAYPAL
 
 If you appreciate my work and would like encourage me to continue all my projects, you can make a donate. I need having some hardware devices, for testing apps like a chromecast or  others things like some subscribtions to online services. So if you would like that i level up for updating my apps the donations are benefits. 
 You can use this button Paypal for donations.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/cmsxpert)
+
+
+
+
+### XCLOUD BETA FOR CHROMECAST GOOGLE TV
+
+
+
+
+![Xcloud_beta_home_icon](https://github.com/mistertest/xcloud-shield/blob/master/img/banner_xcloud_beta_app.png)
+
+
+ "World Premiere !"
+ 
+ Yes i can say that, welcome to my Xcloud Beta for Google TV
+
+
+## Context
+
+Xcloud is the new Cloud Gaming Platform by Microsoft Xbox.
+Xcloud was on private beta, during some months, and it's public now for all from the 28 June 2O21 ago.
+
+
+The official Android App, exist only for Smartphone and Tablets at the moment, so there is no official App for Android TV and Google TV, for now.
+You can only use "Sideload" with  the Smartphone App, but performances are not optimized and the Interface is not thinked and integrated for Android TV experience.
+
+I was a lucky beta tester of the Xcloud Web App for PC: It's exectuted directly from the browser  on PC with the full HD resolution (1080p). 
+I was thinking that it will be awesome if i can enjoy it directly on my box TV : The Nvidia shield Pro 2019.
+So i decided to coding, an application for my shield TV for enjoying my games of my "game pass ultimate".
+It was a good idea and excited project, for improve my skills in Android App development.
+
+And now the version of the Application is maturely ready for the Chromecast Google TV in his first release.
+
+
+
+
+### Supported Devices
+-------------------
+
+The latest models of Chromecast Google TV
+
+
+
+### Supported Controllers
+------------------------
+
+All controllers supported by the Google Chromecast officialy.
+
+- Xbox 360/One/Serie x controller
+- Google gamepad of Chromecast
+- All of "Xinput mapping" Controller bluetooth
+
+
+### REQUIREMENTS
+-------------
+
+
+SUBSCRIPTION TO GAME PASS ULTIMATE
+
+You'll must have to be a Xbox member Ultimate for using Cloud gaming features and this App.
+
+UPDATE YOUR WEBVIEW:
+
+Xcloud Beta App, is based from the realy important compnent: "Webview".
+For the better experience, you'll must have to verify if this is up to date.
+Make a Searching of term "Webview" in your playstore
+If not upd to date, make the upgrade, before playing.
+
+UPDATE YOUR XBOX CONTOLLER:
+
+If you have a persistant issue with your controller after having updating your webview, 
+you can test to update your xbox controller.
+Microsoft with his next gen, and his new xcloud solution usualy updating their devices and accessories.
+So, for the better experience, you'll have to updating your xbox controller with the last version.
+You can do that directly in windows 10 wth a dedicated tool.
+
+https://support.xbox.com/en-US/help/hardware-network/controller/update-xbox-wireless-controller
+
+
+
+
+
+### Information Version
+---------------------
+
+*Actual version*
+- Xcloud_CGTV_Beta_V1
+
+
+### FIX AND FEATURES
+---------------------
+
+*Features*
+- Full optimised for Android TV and the shield TV
+- Full controller support in interface and Games
+- Icon Banner on Home page and menu of Android TV
+- No external browser required, all in fullscreen
+- No mouse required
+- Performances of a webview optimised for cloud gaming
+- No long settings just click and play
+- Automatic language select (language used by default  with your device)
+
+ 
+ 
+
+
+
+
+## Special thanks
+
+ 
+![CGX icon](https://github.com/mistertest/luna-shield/blob/main/images/unnamed.jpg)
+ 
+ 
+#### Cloud Gaming Xtreme
+ 
+Special Thanks to the number one comunauty about the Cloud gaming:
+ 
+The CGX 
+https://www.youtube.com/c/CloudGamingXtreme
+
+
+
+### VIDEOS
+-----------
+
+
+
+[![Watch the video](https://img.youtube.com/vi/fzqqhDurLcs/maxresdefault.jpg)](https://www.youtube.com/watch?v=fzqqhDurLcs)
+
+A  demo Video of Xcloud Beta app
+
+[![Watch the video](https://img.youtube.com/vi/IzYi6zt-elk/maxresdefault.jpg)](https://youtu.be/IzYi6zt-elk)
+
+
+
+### SCREENSHOTS
+---------------------
+
+Accessible from Home 
+
+![Xcloud_beta_home_icon](https://github.com/mistertest/xcloud-shield/blob/master/img/xcloud_new_banner_app.png)
+
+Accessible from Menu
+
+![Xcloud_beta_home_icon](https://github.com/mistertest/xcloud-shield/blob/master/img/xcloud_new_banner_home.png)
+
+
+Interface of Xcloud Beta in Android TV
+
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Home_xcloud2.png)
+
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Interface_xcloud1.png)
+
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Interface2.png)
+
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/interface3.png)
+
+The loading before playing in the cloud
+
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Xcloud_loading.png)
+
+
+Click and play your favorites xbox games directly on your tv with the Shield TV
+
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/in_Game1.png)
+
+
+
+
+
+
 
 
 
