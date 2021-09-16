@@ -57,7 +57,8 @@ And now the version of the Application is maturely ready for the Chromecast Goog
 ### Supported Devices
 -------------------
 
-The latest models of Chromecast Google TV
+The latest models of Chromecast Google TV (white)
+The precedent model: "Chromecast Ultra" is not supported.
 
 
 
@@ -67,8 +68,9 @@ The latest models of Chromecast Google TV
 All controllers supported by the Google Chromecast officialy.
 
 - Xbox 360/One/Serie x controller
-- Google gamepad of Chromecast
+- Switch controller
 - All of "Xinput mapping" Controller bluetooth
+- Some models of Switch controller
 
 
 ### REQUIREMENTS
