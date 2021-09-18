@@ -57,7 +57,8 @@ And now the version of the Application is maturely ready for the Chromecast Goog
 ### Supported Devices
 -------------------
 
-The latest models of Chromecast Google TV (white)
+The latest models of Chromecast Google TV (white).
+
 The precedent model: "Chromecast Ultra" is not supported.
 
 
