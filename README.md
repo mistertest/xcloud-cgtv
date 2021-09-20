@@ -1,5 +1,5 @@
-# Xcloud Beta App Unofficial
-<br> For Chromecast Google TV - CGTV
+# Xcloud Beta App Unofficial - For Chromecast Google TV - CGTV
+
 
 
 
