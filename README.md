@@ -28,6 +28,9 @@ You can use this button Paypal for donations.
 
 
 ![Xcloud_beta_home_icon](https://github.com/mistertest/xcloud-shield/blob/master/img/banner_xcloud_beta_app.png)
+![chrome_cast_models](https://raw.githubusercontent.com/mistertest/xcloud-cgtv/main/images/chromecast_models.png)
+
+
 
 
  "World Premiere !"
