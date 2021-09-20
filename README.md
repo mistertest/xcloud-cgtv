@@ -1,4 +1,4 @@
-# Xcloud Beta App Unofficial - For Chromecast Google TV
+# Xcloud Beta App Unofficial - Chromecast Google TV
 
 
 
