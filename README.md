@@ -76,7 +76,7 @@ But I recommend the official xbox controllers and the updates they offer.
 - Latest Xbox One/Serie X controller
 - All of "Xinput mapping" Controller bluetooth
 - Perhaps Officials Switch controllers
-- Perhaps Staidia controller
+- Perhaps Stadia controller
 
 
 
