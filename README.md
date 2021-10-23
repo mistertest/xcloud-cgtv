@@ -1,5 +1,9 @@
 # Xcloud Beta App Unofficial - Chromecast Google TV
 
+WARNING 
+
+This the first version, in fact there is poor performance comparatively with the experience of Xcloud Beta on the shield tv, the initial project. 
+So I decide to change the technology for futures versions.
 
 
 
@@ -49,11 +53,12 @@ The official Android App, exist only for Smartphone and Tablets at the moment, s
 You can only use "Sideload" with  the Smartphone App, but performances are not optimized and the Interface is not thinked and integrated for Android TV experience.
 
 I was a lucky beta tester of the Xcloud Web App for PC: It's exectuted directly from the browser  on PC with the full HD resolution (1080p). 
-I was thinking that it will be awesome if i can enjoy it directly on my box TV : The Nvidia shield Pro 2019.
-So i decided to coding, an application for my shield TV for enjoying my games of my "game pass ultimate".
+I was thinking that it will be awesome if I can enjoy it directly on my box TV : The Nvidia shield Pro 2019.
+So I decided to coding, an application for my shield TV for enjoying my games of my "game pass ultimate".
 It was a good idea and excited project, for improve my skills in Android App development.
 
-And now the version of the Application is maturely ready for the Chromecast Google TV in his first release.
+This the first version, in fact there is poor performance comparatively with the experience of Xcloud Beta on the shield tv, the initial project. 
+So I decide to change the technology for futures versions.
 
 
 
