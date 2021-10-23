@@ -1,6 +1,6 @@
 # Xcloud Beta App Unofficial - Chromecast Google TV
 
-WARNING 
+### WARNING 
 
 This the first version, in fact there is poor performance comparatively with the experience of Xcloud Beta on the shield tv, the initial project. 
 So I decide to change the technology for futures versions.
