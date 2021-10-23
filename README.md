@@ -17,7 +17,7 @@ The perspective that you can play any Big game without having the hardware of th
 
 ### DONATE PAYPAL
 
-If you appreciate my work and would like encourage me to continue all my projects, you can make a donate.<br>
+If you appreciate my work and would like encourage me to continue all my projects, you can make a donate.<br><br>
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/cmsxpert)
 
 
